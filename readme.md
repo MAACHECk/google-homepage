@@ -1,3 +1,3 @@
 Google Homepage Project
 
-View live site here: 
+View live site here: https://maacheck.github.io/google-homepage/
